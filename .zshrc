@@ -70,7 +70,7 @@ EOD
 }
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
-source /Users/ricochen/.rvm/scripts/rvm
+source ~/.rvm/scripts/rvm
 alias rake="noglob rake"
 # disable auto correct because it drives me nuts from time to time
 unsetopt correct_all
